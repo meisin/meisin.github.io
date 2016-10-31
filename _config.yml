@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://meisin.github.io
+title: Data Science Projects
+tagline: Generating insights from data
+description: A place to showcase my data science projects
+paginate: 5
