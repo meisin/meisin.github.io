@@ -4,3 +4,5 @@ title: testing
 layout: post
 ---
 testing
+
+this is edited through command line
